@@ -1,3 +1,4 @@
+/* 3 */
 let entrada;
 
 do {
